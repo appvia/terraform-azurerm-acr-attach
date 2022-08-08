@@ -5,3 +5,4 @@ terraform.tfstate.backup
 values.tfvars
 *.swp
 *.orig
+provider.tf
